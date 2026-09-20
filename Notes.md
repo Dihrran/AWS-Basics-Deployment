@@ -1,22 +1,22 @@
-#AWS Basics
+# AWS Basics
 AWS = cloud computing platform
 Pay-as-you-use pricing
 Scalable and reliable
 Used for hosting websites, storage, and databases
 
-#Create AWS Account
+# Create AWS Account
 Sign up for AWS Free Tier
 Add payment details
 Verify account
 Log in to AWS Management Console
 
-#Services Used
+# Services Used
 EC2 = Virtual Server
 S3 = File Storage
 RDS/Aurora = Database
 IAM = User Access Management
 
-#EC2 Setup
+# EC2 Setup
 Search EC2
 Click Launch Instance
 Enter instance name
@@ -29,7 +29,7 @@ HTTP (80)
 HTTPS (443)
 Launch Instance
 
-#S3 Setup
+# S3 Setup
 Search S3
 Click Create Bucket
 Enter bucket name
@@ -59,7 +59,7 @@ Access Key ID
 Secret Access Key
 Save credentials securely
 
-#Aurora / RDS Setup
+# Aurora / RDS Setup
 Search RDS
 Click Create Database
 Choose Aurora PostgreSQL
@@ -74,13 +74,13 @@ Host
 Username
 Password
 
-#Connect to EC2
+# Connect to EC2
 Open EC2 Instance
 Click Connect
 Open browser terminal
 Connect to server
 
-#Deploy App
+# Deploy App
 Install Git
 Clone GitHub repository
 Navigate to project directory
