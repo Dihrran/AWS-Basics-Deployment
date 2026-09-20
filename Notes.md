@@ -131,28 +131,52 @@ Connect to server
 
 # Deploy App
 Install Git
+
 Clone GitHub repository
+
 Navigate to project directory
+
 Configure S3 environment variables
+
 S3_BUCKET
+
 S3_REGION
+
 S3_ACCESS_KEY
+
 S3_SECRET_KEY
+
 Configure Database environment variables
+
 DB_HOST
+
 DB_USER
+
 DB_PASS
+
 Install Node.js
+
 Verify Node.js installation
+
 Install project dependencies using npm
+
 Start the website using npm start or node index.js
+
 Verify database connection
+
 Verify server is running on port 8080
+
 Test website locally using localhost
+
 Obtain EC2 public IP address
+
 Open website using http://<PUBLIC-IP>:8080
-Confirm:
+
+## Confirm:
 Website loads successfully
+
 Images load from S3
+
 Database data loads correctly
+
 Application is accessible from the browser
